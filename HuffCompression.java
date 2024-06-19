@@ -218,6 +218,6 @@ public class HuffCompression {
     }
 
     public static void main(String[] args) {
-        compress("C:\\Users\\devme\\Desktop\\text.txt", "C:\\Users\\devme\\Desktop\\mm.txt");
+       // compress("C:\\Users\\devme\\Desktop\\text.txt", "C:\\Users\\devme\\Desktop\\mm.txt");
     }
 }
